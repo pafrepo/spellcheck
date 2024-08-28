@@ -7,7 +7,7 @@ This is a simple spellchecker package for the Go programming language. It allows
 To install the package, simply run the following command:
 
 ```go
-go get github.com/makifdb/spellcheck
+go get github.com/pafrepo/spellcheck
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/makifdb/spellcheck"
+	"github.com/pafrepo/spellcheck"
 )
 
 func main() {
