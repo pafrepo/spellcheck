@@ -11,7 +11,7 @@ const (
 	// DEFAULT_ALPHABET is the default alphabet used for generating variations
 	DEFAULT_ALPHABET = "abcdefghijklmnopqrstuvwxyz"
 	// DEFAULT_REMOTE_WORDS_URL is the default url containing the words
-	DEFAULT_REMOTE_WORDS_URL = "https://raw.githubusercontent.com/makifdb/spellcheck/main/words.txt"
+	DEFAULT_REMOTE_WORDS_URL = "https://raw.githubusercontent.com/pafrepo/spellcheck/main/words.txt"
 	// DEFAULT_DEPTH is the default depth used for generating variations
 	DEFAULT_DEPTH = 1
 )
